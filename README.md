@@ -12,7 +12,7 @@ Send and Get Transaction.
 
 Send Transaction: Replace your host/Api, Private key, Contract Address to send Trasaction and run the script run cmd is node sendTransaction.js.
 
-Get Transaction: For Get Trasaction no need of Private key just replace your contract address, Api url and accoute address and run the script.
+Get Transaction: For Get Trasaction no need of Private key just replace your contract address, Api url and accounte address and run the script.
 
 
 
