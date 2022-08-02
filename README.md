@@ -5,7 +5,7 @@
 
 **Pull/Download the Code and run the cammand**
 
-> npm install 
+`npm install `
 
 Contract Deployment:
  
