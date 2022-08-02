@@ -1,8 +1,11 @@
-# Read Installation Method
-# Deoployement/Get Transation/Send Transaction Scripts
-Installation:
+# Truffle Web3 Project
 
-Pull/Download the Code and run the npm install cammand
+## Setting Up
+
+
+**Pull/Download the Code and run the cammand**
+
+> npm install 
 
 Contract Deployment:
  
