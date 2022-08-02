@@ -3,7 +3,7 @@
 ## Setting Up
 
 
-**Pull/Download the Repo.**
+**Pull/Download the Repository.**
 
 **Install the Dependencies**
 
