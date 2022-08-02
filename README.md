@@ -7,10 +7,10 @@
 
 **Install the Depandancies**
 
-``
-npm install
 
-``
+`npm install`
+
+
 
 **Contract Deployment Details:**
 
