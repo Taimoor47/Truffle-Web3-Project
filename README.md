@@ -5,15 +5,17 @@
 
 **Pull/Download the Code and run the cammand**
  
-``npm install``
+``
+npm install
+``
 
-###### Contract Deployment:
+** Contract Deployment:**
 
  
 **For Contract Deployment create .env file and set your details host/Api and private key and then go to scripts/deploy-contract.js and set your network/testnet and run the script.**
 
 
-###### Send and Get Transaction.
+** Send and Get Transaction.**
 
 
 **Send Transaction: Replace your host/Api, Private key, Contract Address in scripts/sendTransaction to send Trasaction.js and run the script run cmd is .**
