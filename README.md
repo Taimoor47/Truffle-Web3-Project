@@ -3,9 +3,9 @@
 ## Setting Up
 
 
-**Pull/Download the Repo**
+**Pull/Download the Repo.**
 
-**Install the Depandancies**
+**Install the Dependencies**
 
 
 `npm install`
